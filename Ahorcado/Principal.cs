@@ -23,7 +23,7 @@ namespace Ahorcado
                 if (ah.Victoria)
                 {
                     Console.WriteLine();
-                    Console.WriteLine("            Has ganado pulsa cualquier boton para continuar");
+                    Console.WriteLine("            Has ganado pulsa cualquier boton para continuar. ");
                     Console.ReadKey();
                     Console.Clear();
                 }

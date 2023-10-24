@@ -13,3 +13,11 @@ C:\Users\Trabajo\Documents\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.Suggested
 C:\Users\Trabajo\Documents\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
 C:\Users\Trabajo\Documents\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
 C:\Users\Trabajo\Documents\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
+C:\Users\Trabajo\Source\Repos\alvarojurado\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\Trabajo\Source\Repos\alvarojurado\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\Trabajo\Source\Repos\alvarojurado\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\Trabajo\Source\Repos\alvarojurado\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.AssemblyReference.cache
+C:\Users\Trabajo\Source\Repos\alvarojurado\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trabajo\Source\Repos\alvarojurado\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\Trabajo\Source\Repos\alvarojurado\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\Trabajo\Source\Repos\alvarojurado\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
