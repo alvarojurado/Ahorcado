@@ -1,1 +1,2 @@
-ahoracado en consola programado en java
+# El Ahorcado
+ahorcado en consola programado en java
