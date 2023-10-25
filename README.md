@@ -1,2 +1,2 @@
 # El Ahorcado
-ahorcado en consola programado en java
+ahorcado en consola programado en .NET
